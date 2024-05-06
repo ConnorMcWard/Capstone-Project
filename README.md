@@ -1,5 +1,5 @@
 # Capstone-Project
-2023 CSU EB Capstone Project 
+2023 CSU EB Capstone Projects
 
 # Hotel Cancellations
 ## Link
